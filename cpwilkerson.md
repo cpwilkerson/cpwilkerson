@@ -27,4 +27,17 @@ projects that not only demonstrate my skills, but hopefully provide meaningful
 examples of how certain frameworks, and languages work.  I've had a great career
 so far, and despite it sounding cliche...I want to give something back.
 
+[codableScratch](https://github.com/cpwilkerson/codableScratch)
+* Small project that demonstrates how to work with the **Codable** protocol in
+  **Swift**
+
+[login-server](https://github.com/cpwilkerson/login-server)
+* **WIP**: I needed to understand **JSON Web Tokens**, when this project is done
+  it will demonstrate not only *JWTs*, you will see **NodeJS, ReactJS, Redux,
+  Bootstrap, as well as, a small glimpse into my web development workflow.
+* **FYI**: I have actually already implemented this in the real world, but that
+  code is proprietary to the company I wrote it for.  This project is a 
+  sanitized version that simply demonstrates the aforementioned javascript 
+  tools.
+
 -Christian
